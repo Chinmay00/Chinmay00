@@ -1,14 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Chinmay Jadhav </h1>
 <p align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast ☁️</p>
 <p align="center">Automating, Scaling & Securing Infrastructure ⚡</p>
-<p align="center">
- <a href="https://www.linkedin.com/in/chinmay-jadhav" target="_blank">
-   <img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
- </a>
- <a href="mailto:chinmay@jetatech.in" target="_blank">
-   <img alt="" src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=EA4335&style=for-the-badge" />
- </a>
-</p>
+
 
 # 💫 About Me:
 * 🌍 Based in India  
